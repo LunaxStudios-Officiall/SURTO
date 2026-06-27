@@ -1,5 +1,0 @@
-status=normal
-versao=1.0
-season=1
-link=
-mensagem=
